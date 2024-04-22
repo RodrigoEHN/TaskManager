@@ -1,0 +1,4 @@
+username root
+password ZmRBk1GYFlCJNOkQ
+
+mongodb+srvrootZmRBk1GYFlCJNOkQ@rodrigoherrera.cr8medj.mongodb.net
