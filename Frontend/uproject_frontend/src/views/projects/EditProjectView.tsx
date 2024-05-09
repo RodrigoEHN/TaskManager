@@ -18,7 +18,7 @@ export default function EditProjectView() {
     if(isLoading) return 'Loading...'
     if (isError) return <Navigate to={'/404'} />
 
-    if (data) return <EditProjectFrom data={data}/>
+    if (data) return <EditProjectFrom data={data} projectId={projectId}/>
     
 
 }
